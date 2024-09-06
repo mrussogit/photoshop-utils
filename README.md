@@ -7,9 +7,6 @@ This repository contains a collection of useful Photoshop scripts that helps me 
 - [Getting Started](#getting-started)
 - [Scripts](#scripts)
   - [Get Number of Selected Layers](#get-number-of-selected-layers)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
