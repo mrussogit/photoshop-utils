@@ -1,4 +1,3 @@
-@@ -0,0 +1,96 @@
 #target photoshop
 
 // Create dialog
@@ -95,4 +94,3 @@ function renameLayers(layers, baseName, prepend, append, startIndex, isTopToBott
 }
 
 dlg.show();
-No newline at end of file
